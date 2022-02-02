@@ -1,4 +1,4 @@
-#include<stdio.h>
+gcc#include<stdio.h>
 int input()
 {
 int a;
